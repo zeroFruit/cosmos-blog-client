@@ -1,0 +1,5 @@
+.idea/
+tags
+**/*.swp
+.DS_Store
+node_modules/
