@@ -1,6 +1,6 @@
 version: v1
 plugins:
-  - name: ts_proto
+  - remote: buf.build/kanziw/plugins/ts-proto:v1.112.2-0
     out: ./codegen 
     opt:
       - paths=source_relative
